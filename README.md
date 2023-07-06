@@ -1,2 +1,2 @@
 # MonteCarloPI
- PI Sayısı
+ Pi Sayısı
